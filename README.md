@@ -6,4 +6,4 @@ Repo for learning how to use Jekyll and Github Pages to make flashy static websi
 
 ## Subsection 1
 
-![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png )
+![alt text](https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png)
