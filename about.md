@@ -11,3 +11,5 @@ You can cite us as:
 ## Contact Us
 
 Smoke signal preferred
+
+Or you can get us on twitter [twitter link](site.twitter)
