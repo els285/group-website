@@ -1,6 +1,6 @@
 ---
 lesson-example: "https://marco-leong.com/Memes/"
-layout: default
+layout: home
 title: Homepage
 ---
 
