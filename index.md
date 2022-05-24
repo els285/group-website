@@ -16,5 +16,5 @@ More details can be found at the [About page](about)
 Please email [here](mailto:{{site.email}})
 
 
- {% include navigation.html %}
+ {% include footer.html %}
 
