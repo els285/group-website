@@ -3,7 +3,6 @@ lesson-example: "https://marco-leong.com/Memes/"
 layout: default
 ---
 
-<!--  {% include navigation.html %} -->
 
 # Building Websites in GitHub
 
@@ -16,6 +15,4 @@ More details can be found at the [About page](about)
 
 Please email [here](mailto:{{site.email}})
 
-
- {% include footer.html %}
 
