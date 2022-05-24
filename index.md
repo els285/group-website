@@ -1,8 +1,9 @@
 ---
 lesson-example: "https://marco-leong.com/Memes/"
+layout: default
 ---
 
- {% include navigation.html %}
+<!--  {% include navigation.html %} -->
 
 # Building Websites in GitHub
 
