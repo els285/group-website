@@ -1,6 +1,7 @@
 ---
 lesson-example: "https://marco-leong.com/Memes/"
 layout: default
+title: Homepage
 ---
 
 
