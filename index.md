@@ -2,6 +2,7 @@
 lesson-example: "https://marco-leong.com/Memes/"
 ---
 
+ {% include navigation.html %}
 
 # Building Websites in GitHub
 
