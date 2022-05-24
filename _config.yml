@@ -2,4 +2,4 @@ description: "This researhc projects develops training materials for researchs w
 email: "ethan@mail.com"
 twitter: "https://twitter.com/"
 
-theme: jekyll-theme-merlot
+remote-theme: mmistakes/minimal-mistakes
