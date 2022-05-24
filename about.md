@@ -1,3 +1,6 @@
+ {% include navigation.html %}
+
+
 # About
 
 Some stuff
@@ -13,3 +16,6 @@ You can cite us as:
 Smoke signal preferred
 
 Or you can get us on twitter [twitter link]({{site.twitter}})
+
+ {% include footer.html %}
+
